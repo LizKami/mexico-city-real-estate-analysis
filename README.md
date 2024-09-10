@@ -5,3 +5,4 @@ In the dynamic real estate market of Mexico City, property prices are significan
 # project objective
 This project explores the factors influencing real estate prices in Mexico City, with a focus on size and location. By analyzing housing data, we aim to determine how these two critical variables impact property prices and gain insights into the real estate market dynamics.
 #project data
+The data used for this project was sourced from properati.com. 
